@@ -1,0 +1,90 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls" reformat="true" live-template-enabled="false">
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.0.xml" file-name="${Selector_Test_Class_Name_eg_OpportunitiesSelectorTest}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.1.cls" file-name="${Selector_Test_Class_Name_eg_OpportunitiesSelectorTest}" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.10.xml" file-name="${Domain_SObject_Interface_Name_eg_IOpportunities}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.11.cls" file-name="${Domain_SObject_Interface_Name_eg_IOpportunities}" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.12.xml" file-name="${Domain_SObject_Test_Class_Name_eg_OpportunitiesTest}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.13.cls" file-name="${Domain_SObject_Test_Class_Name_eg_OpportunitiesTest}" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.14.xml" file-name="${Domain_SObject_Class_Name_eg_Opportunities}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.2.xml" file-name="${Selector_Interface_Name_eg_IOpportunitiesSelector}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.3.cls" file-name="${Selector_Interface_Name_eg_IOpportunitiesSelector}" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.4.xml" file-name="${Selector_Class_Name_eg_OpportunitiesSelector}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.5.cls" file-name="${Selector_Class_Name_eg_OpportunitiesSelector}" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.6.xml" file-name="${Domain_Aep_TriggerHandler_Test_Class_Name_eg_OpportunitiesAepTriggerHandlerTest}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.7.cls" file-name="${Domain_Aep_TriggerHandler_Test_Class_Name_eg_OpportunitiesAepTriggerHandlerTest}" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.8.xml" file-name="${Domain_Aep_TriggerHandler_Class_Name_eg_OpportunitiesAepTriggerHandler}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.9.cls" file-name="${Domain_Aep_TriggerHandler_Class_Name_eg_OpportunitiesAepTriggerHandler}" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.0.xml" file-name="${Selector_Test_Class_Name_eg_OpportunitiesSelectorTest}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.1.cls" file-name="${Selector_Test_Class_Name_eg_OpportunitiesSelectorTest}" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.10.xml" file-name="${Domain_SObject_Interface_Name_eg_IOpportunities}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.11.cls" file-name="${Domain_SObject_Interface_Name_eg_IOpportunities}" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.12.xml" file-name="${Domain_SObject_Test_Class_Name_eg_OpportunitiesTest}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.13.cls" file-name="${Domain_SObject_Test_Class_Name_eg_OpportunitiesTest}" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.14.xml" file-name="${Domain_SObject_Class_Name_eg_Opportunities}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.2.xml" file-name="${Selector_Interface_Name_eg_IOpportunitiesSelector}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.3.cls" file-name="${Selector_Interface_Name_eg_IOpportunitiesSelector}" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.4.xml" file-name="${Selector_Class_Name_eg_OpportunitiesSelector}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.5.cls" file-name="${Selector_Class_Name_eg_OpportunitiesSelector}" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.6.xml" file-name="${Domain_Aep_TriggerHandler_Test_Class_Name_eg_OpportunitiesAepTriggerHandlerTest}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.7.cls" file-name="${Domain_Aep_TriggerHandler_Test_Class_Name_eg_OpportunitiesAepTriggerHandlerTest}" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.8.xml" file-name="${Domain_Aep_TriggerHandler_Class_Name_eg_OpportunitiesAepTriggerHandler}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepAllDomainSelectorTriggerHandlerApexClasses.cls.child.9.cls" file-name="${Domain_Aep_TriggerHandler_Class_Name_eg_OpportunitiesAepTriggerHandler}" reformat="true" live-template-enabled="false" />
+      <template name="AepApexTrigger.trigger" reformat="true" live-template-enabled="false">
+        <template name="AepApexTrigger.trigger.child.0.xml" file-name="${AEP_Apex_Trigger_Name_eg_OpportunityAepTrigger}.trigger-meta" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="AepApexTrigger.trigger.child.0.xml" file-name="${AEP_Apex_Trigger_Name_eg_OpportunityAepTrigger}.trigger-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepDomainSObjectApexClasses.cls" reformat="true" live-template-enabled="false">
+        <template name="AepDomainSObjectApexClasses.cls.child.0.xml" file-name="${Domain_SObject_Class_Name_eg_Opportunities}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepDomainSObjectApexClasses.cls.child.1.cls" file-name="${Domain_SObject_Test_Class_Name_eg_OpportunitiesTest}" reformat="true" live-template-enabled="false" />
+        <template name="AepDomainSObjectApexClasses.cls.child.2.xml" file-name="${Domain_SObject_Test_Class_Name_eg_OpportunitiesTest}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepDomainSObjectApexClasses.cls.child.3.cls" file-name="${Domain_SObject_Interface_Name_eg_IOpportunities}" reformat="true" live-template-enabled="false" />
+        <template name="AepDomainSObjectApexClasses.cls.child.4.xml" file-name="${Domain_SObject_Interface_Name_eg_IOpportunities}.cls-meta" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="AepDomainSObjectApexClasses.cls.child.0.xml" file-name="${Domain_SObject_Class_Name_eg_Opportunities}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepDomainSObjectApexClasses.cls.child.1.cls" file-name="${Domain_SObject_Test_Class_Name_eg_OpportunitiesTest}" reformat="true" live-template-enabled="false" />
+      <template name="AepDomainSObjectApexClasses.cls.child.2.xml" file-name="${Domain_SObject_Test_Class_Name_eg_OpportunitiesTest}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepDomainSObjectApexClasses.cls.child.3.cls" file-name="${Domain_SObject_Interface_Name_eg_IOpportunities}" reformat="true" live-template-enabled="false" />
+      <template name="AepDomainSObjectApexClasses.cls.child.4.xml" file-name="${Domain_SObject_Interface_Name_eg_IOpportunities}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepSelectorApexClasses.cls" reformat="true" live-template-enabled="false">
+        <template name="AepSelectorApexClasses.cls.child.0.xml" file-name="${Selector_Class_Name_eg_OpportunitiesSelector}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepSelectorApexClasses.cls.child.1.cls" file-name="${Selector_Test_Class_Name_eg_OpportunitiesSelectorTest}" reformat="true" live-template-enabled="false" />
+        <template name="AepSelectorApexClasses.cls.child.2.xml" file-name="${Selector_Test_Class_Name_eg_OpportunitiesSelectorTest}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepSelectorApexClasses.cls.child.3.cls" file-name="${Selector_Interface_Name_eg_IOpportunitiesSelector}" reformat="true" live-template-enabled="false" />
+        <template name="AepSelectorApexClasses.cls.child.4.xml" file-name="${Selector_Interface_Name_eg_IOpportunitiesSelector}.cls-meta" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="AepSelectorApexClasses.cls.child.0.xml" file-name="${Selector_Class_Name_eg_OpportunitiesSelector}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepSelectorApexClasses.cls.child.1.cls" file-name="${Selector_Test_Class_Name_eg_OpportunitiesSelectorTest}" reformat="true" live-template-enabled="false" />
+      <template name="AepSelectorApexClasses.cls.child.2.xml" file-name="${Selector_Test_Class_Name_eg_OpportunitiesSelectorTest}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepSelectorApexClasses.cls.child.3.cls" file-name="${Selector_Interface_Name_eg_IOpportunitiesSelector}" reformat="true" live-template-enabled="false" />
+      <template name="AepSelectorApexClasses.cls.child.4.xml" file-name="${Selector_Interface_Name_eg_IOpportunitiesSelector}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepServiceApexClasses.cls" reformat="true" live-template-enabled="false">
+        <template name="AepServiceApexClasses.cls.child.0.xml" file-name="${Service_Test_Class_Name_eg_InvoicingServiceTest}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepServiceApexClasses.cls.child.1.cls" file-name="${Service_Test_Class_Name_eg_InvoicingServiceTest}" reformat="true" live-template-enabled="false" />
+        <template name="AepServiceApexClasses.cls.child.2.xml" file-name="${Service_Impl_Name_eg_InvoicingServiceImpl}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepServiceApexClasses.cls.child.3.cls" file-name="${Service_Impl_Name_eg_InvoicingServiceImpl}" reformat="true" live-template-enabled="false" />
+        <template name="AepServiceApexClasses.cls.child.4.xml" file-name="${Service_Interface_Name_eg_IInvoicingService}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepServiceApexClasses.cls.child.5.cls" file-name="${Service_Interface_Name_eg_IInvoicingService}" reformat="true" live-template-enabled="false" />
+        <template name="AepServiceApexClasses.cls.child.6.xml" file-name="${Service_Class_Name_eg_InvoicingService}.cls-meta" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="AepServiceApexClasses.cls.child.0.xml" file-name="${Service_Test_Class_Name_eg_InvoicingServiceTest}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepServiceApexClasses.cls.child.1.cls" file-name="${Service_Test_Class_Name_eg_InvoicingServiceTest}" reformat="true" live-template-enabled="false" />
+      <template name="AepServiceApexClasses.cls.child.2.xml" file-name="${Service_Impl_Name_eg_InvoicingServiceImpl}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepServiceApexClasses.cls.child.3.cls" file-name="${Service_Impl_Name_eg_InvoicingServiceImpl}" reformat="true" live-template-enabled="false" />
+      <template name="AepServiceApexClasses.cls.child.4.xml" file-name="${Service_Interface_Name_eg_IInvoicingService}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepServiceApexClasses.cls.child.5.cls" file-name="${Service_Interface_Name_eg_IInvoicingService}" reformat="true" live-template-enabled="false" />
+      <template name="AepServiceApexClasses.cls.child.6.xml" file-name="${Service_Class_Name_eg_InvoicingService}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepTriggerHandlerApexClasses.cls" reformat="true" live-template-enabled="false">
+        <template name="AepTriggerHandlerApexClasses.cls.child.0.xml" file-name="${Domain_Aep_TriggerHandler_Test_Class_Name_eg_OpportunitiesAepTriggerHandlerTest}.cls-meta" reformat="true" live-template-enabled="false" />
+        <template name="AepTriggerHandlerApexClasses.cls.child.1.cls" file-name="${Domain_Aep_TriggerHandler_Test_Class_Name_eg_OpportunitiesAepTriggerHandlerTest}" reformat="true" live-template-enabled="false" />
+        <template name="AepTriggerHandlerApexClasses.cls.child.2.xml" file-name="${Domain_Aep_TriggerHandler_Class_Name_eg_OpportunitiesAepTriggerHandler}.cls-meta" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="AepTriggerHandlerApexClasses.cls.child.0.xml" file-name="${Domain_Aep_TriggerHandler_Test_Class_Name_eg_OpportunitiesAepTriggerHandlerTest}.cls-meta" reformat="true" live-template-enabled="false" />
+      <template name="AepTriggerHandlerApexClasses.cls.child.1.cls" file-name="${Domain_Aep_TriggerHandler_Test_Class_Name_eg_OpportunitiesAepTriggerHandlerTest}" reformat="true" live-template-enabled="false" />
+      <template name="AepTriggerHandlerApexClasses.cls.child.2.xml" file-name="${Domain_Aep_TriggerHandler_Class_Name_eg_OpportunitiesAepTriggerHandler}.cls-meta" reformat="true" live-template-enabled="false" />
+    </default_templates>
+  </component>
+</application>
