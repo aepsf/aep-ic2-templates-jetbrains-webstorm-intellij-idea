@@ -4,16 +4,22 @@
 
 ## Why to create and to use this set of templates?
 
-### Save time, it may save about 21 minutes when you create and deploy 8 Apex Classes together by using the "Option 1 (DSH)" template set as below.
+### Save time, it may save about ~~21 minutes~~ when you create and deploy 8 Apex Classes together by using the "Option 1 (DSH)" template set as below.
+
+#### Lightning fast option to deploy Apex Classes
+
+Learned from [issue 1247](https://bitbucket.org/RoseSilverSoftware/illuminatedcloud/issues/1247/deploying-takes-almost-3-minutes), DEACTIVATING the "Perform Synchronous Compile on Deploy" Apex Setting in a sandbox has reduced the deploying time from about 3 minutes to about 5 to 20 seconds.
+
+![Apex Setting](images/Disable-Apex-setting.png)
 
 #### Create 8 Apex Classes individually without using the templates
 
-It will take about 24 minutes because it takes about 3 minutes to save and deploy each Apex Class. 
+It will take about ~~24 minutes~~ because it takes about ~~3 minutes~~ to save and deploy each Apex Class. 
 It seemed that the first time to save the new Apex Classes will have to use Metadata API instead of the Tooling API.
 
 #### Use the "Option 1 (DSH)" template set to create 8 Apex Classes together
 
-It will take about 3 minutes to "Ctrl + S" or "Cmd + S for macOS" (save and deploy) all 8 Apex Classes together by using the templates.
+It will take about ~~3 minutes~~ to "Ctrl + S" or "Cmd + S for macOS" (save and deploy) all 8 Apex Classes together by using the templates.
 
 ## Who may want to consider using this set of templates?
 
