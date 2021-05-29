@@ -18,7 +18,7 @@ public inherited sharing class ${Domain_SObject_Class_Name_eg_Opportunities}
 
     public static ${Domain_SObject_Interface_Name_eg_IOpportunities} newInstance(Set<Id> recordIdSet)
     {
-        return (${Domain_SObject_Class_Name_eg_Opportunities}) Application.Domain.newInstance(recordIdSet);
+        return (${Domain_SObject_Interface_Name_eg_IOpportunities}) Application.Domain.newInstance(recordIdSet);
     }
 
     public ${Domain_SObject_Class_Name_eg_Opportunities}(List<${SObject_API_Name_eg_Opportunity}> sObjectList)
