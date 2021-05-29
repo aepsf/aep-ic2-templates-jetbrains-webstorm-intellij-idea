@@ -5,8 +5,6 @@
 
 public interface ${Domain_SObject_Interface_Name_eg_IOpportunities} extends fflib_ISObjects
 {
-    /**
-     * Method doSomething
-     */
+    List<${SObject_API_Name_eg_Opportunity}> get${Domain_SObject_Class_Name_eg_Opportunities}();
     void doSomething();
 }

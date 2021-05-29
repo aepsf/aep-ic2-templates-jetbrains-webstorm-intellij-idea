@@ -1,13 +1,10 @@
 /**
  * Created by ${AuthorFullName} on ${YEAR}-${MONTH}-${DAY}.<br>
- * SObject API Name: ${SObject_API_Name_eg_Opportunity} <br>
- * Selector Class Name: ${Selector_Class_Name_eg_OpportunitiesSelector} <br>
- * Selector Test Class Name: ${Selector_Test_Class_Name_eg_OpportunitiesSelectorTest} <br>
- * Selector Interface Name: ${Selector_Interface_Name_eg_IOpportunitiesSelector}
+ * Domain SObject Interface Name: ${Domain_SObject_Interface_Name_eg_IOpportunities}
  */
- 
-public interface ${Selector_Interface_Name_eg_IOpportunitiesSelector}
-        extends fflib_ISObjectSelector
-{
 
+public interface ${Domain_SObject_Interface_Name_eg_IOpportunities} extends fflib_ISObjects
+{
+    List<${SObject_API_Name_eg_Opportunity}> get${Domain_SObject_Class_Name_eg_Opportunities}();
+    void doSomething();
 }
