@@ -4,7 +4,7 @@
 
 ## Why to create and to use this set of templates?
 
-### Save time, it may save about ~~21 minutes~~ when you create and deploy 8 Apex Classes together by using the "Option 1 (DSH)" template set as below.
+### Save time, it may take quite some minutes when you create and deploy 8 Apex Classes manually without using the templates in this repository, e.g. "Option 1 (DSH)" template set as below.
 
 #### Lightning fast option to deploy Apex Classes
 
@@ -12,14 +12,13 @@ Learned from [issue 1247](https://bitbucket.org/RoseSilverSoftware/illuminatedcl
 
 ![Apex Setting](images/Disable-Apex-setting.png)
 
-#### Create 8 Apex Classes individually without using the templates
+#### Create eight Apex Classes (extends fflib) individually without using the templates
 
-It will take about ~~24 minutes~~ because it takes about ~~3 minutes~~ to save and deploy each Apex Class. 
-It seemed that the first time to save the new Apex Classes will have to use Metadata API instead of the Tooling API.
+It will take quite some minutes to manually prepare eight new Apex Class extending any of the fflib Clases before we can start to write a first functioning method in it.
 
 #### Use the "Option 1 (DSH)" template set to create 8 Apex Classes together
 
-It will take about ~~3 minutes~~ to "Ctrl + S" or "Cmd + S for macOS" (save and deploy) all 8 Apex Classes together by using the templates.
+It will take about less than one minutes to "Ctrl + S" or "Cmd + S for macOS" (save and deploy) all 8 Apex Classes together by using the templates and all 8 Apex Classes have everything prepared for writing any new fflib pattern functioning method.
 
 ## Who may want to consider using this set of templates?
 
